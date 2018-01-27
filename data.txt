@@ -1,0 +1,8 @@
+u,apinto,Anthony Pinto,1001,abcd1234$,house
+b,DOSAlert.c,IDS,12/11/2015,jgosling,xyz83$2Iw,alpha
+u,jsmith,John Smith,1004,passw0rd,nospe
+b,deleteUsers.vb,SysAdm,01/03/2007,pallen,Pa$$W0rd,login
+u,ddante,Adrian Lamo,1007,KI$$FM102,phone
+u,tam50,Timothy McWatters,1006,pa$$word,nonum
+b,tam50.txt,HelpDesk,5/16/1978,Tim McCoolio,pa$w0rd,short
+u,bob30,Bob Builder,1008,pa$$w0rd!,extra
